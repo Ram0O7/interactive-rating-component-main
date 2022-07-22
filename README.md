@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/interactiveratingcomponent-WdNi4eb0G-)
+- Live Site URL: [live site URL](https://ram0o7.github.io/interactive-rating-component-main/)
 
 
 - Semantic HTML5 markup
